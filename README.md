@@ -14,7 +14,7 @@
 
   
  <a href="https://www.linkedin.com/in/divyansh-verma-420289190/">
-   <img align="left" alt="Taruvar Mittal | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
+   <img align="left" alt="DIVYANSH VERMA | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
   </a>
 </div>
 <br>
