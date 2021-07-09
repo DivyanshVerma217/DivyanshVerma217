@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm DIVYANSH VERMA <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="29px"> </h1>
-<h3 align="center"> |🚀Full Stack Developer🚀 |</h3>
+<h3 align="center"> |🚀Full Stack Web Developer🚀 |</h3>
 <div>
 <div align="left"> 
   <h3> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> About Me </h3>
